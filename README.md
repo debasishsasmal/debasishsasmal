@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there, I'm Debasish 👋
 
-<!--
-**debasishsasmal/debasishsasmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and aspiring Frontend Developer from Bhubaneswar, India. I love building beautiful, responsive websites and learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👨‍💻 **About Me**
+
+-   🔭 I’m currently looking for a full-time **Frontend Developer** role.
+-   🌱 I’m focused on mastering **JavaScript** and modern web technologies.
+-   💬 Ask me about HTML, CSS, and DOM manipulation.
+
+---
+
+#### 🛠️ **My Skills**
+
+-   **Frontend:** HTML5, CSS3, JavaScript, Responsive Design
+-   **Tools:** Git, GitHub, VS Code
+
+---
+
+#### 📫 **How to Reach Me**
+
+-   **LinkedIn:** www.linkedin.com/in/debasishsasmals
+-   **Email:** sasmaldebasish81@gmail.com
