@@ -12,10 +12,12 @@ I'm a passionate and aspiring Frontend Developer from Bhubaneswar, India. I love
 
 ---
 
-#### 🛠️ **My Skills**
+### My Skills 🛠️
 
--   **Frontend:** HTML5, CSS3, JavaScript, Responsive Design
--   **Tools:** Git, GitHub, VS Code
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Frameworks & Libraries:** React.js, Tailwind CSS
+- **Key Concepts:** React Hooks (useState, useEffect, etc.), React Router, REST APIs, Custom Hooks, Responsive Design
+- **Tools & Platforms:** Git, GitHub, VS Code, Netlify
 
 ---
 
