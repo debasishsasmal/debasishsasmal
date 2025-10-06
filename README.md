@@ -4,11 +4,11 @@ I'm a passionate and aspiring Frontend Developer from Bhubaneswar, India. I love
 
 ---
 
-#### 👨‍💻 **About Me**
+#### 👩‍💻 About Me
 
--   🔭 I’m currently looking for a full-time **Frontend Developer** role.
--   🌱 I’m focused on mastering **JavaScript** and modern web technologies.
--   💬 Ask me about HTML, CSS, and DOM manipulation.
+- I’m a Frontend Developer focused on building dynamic web applications with **React.js** and **Tailwind CSS**.
+- I’m currently looking for a full-time role where I can contribute to exciting projects and continue to grow my skills.
+- Ask me about React, JavaScript, and building responsive user interfaces!
 
 ---
 
@@ -21,7 +21,7 @@ I'm a passionate and aspiring Frontend Developer from Bhubaneswar, India. I love
 
 ---
 
-#### 📫 **How to Reach Me**
+#### 📫 How to Reach Me
 
--   **LinkedIn:** www.linkedin.com/in/debasishsasmals
--   **Email:** sasmaldebasish81@gmail.com
+- **LinkedIn:** [debasishsasmal](https://www.linkedin.com/in/debasishsasmal)
+- **Email:** [sasmaldebasish181@gmail.com](mailto:sasmaldebasish181@gmail.com)
