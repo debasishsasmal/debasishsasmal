@@ -23,5 +23,5 @@ I'm a passionate and aspiring Frontend Developer from Bhubaneswar, India. I love
 
 #### 📫 How to Reach Me
 
-- **LinkedIn:** [debasishsasmal](https://www.linkedin.com/in/debasishsasmals)
-- **Email:** [sasmaldebasish181@gmail.com](mailto:sasmaldebasish81@gmail.com)
+- **LinkedIn:** [debasishsasmals](https://www.linkedin.com/in/debasishsasmals)
+- **Email:** [sasmaldebasish81@gmail.com](mailto:sasmaldebasish81@gmail.com)
